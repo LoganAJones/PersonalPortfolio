@@ -1,0 +1,18 @@
+.backgroundimage_container {
+    /* Full height */
+    min-height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    position: fixed;
+
+}
+
+.backgroundimage_container img {
+  min-height: 100vh;
+  object-fit: cover;
+  position: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
