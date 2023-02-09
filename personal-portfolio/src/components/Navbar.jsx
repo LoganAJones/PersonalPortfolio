@@ -44,7 +44,6 @@ export default function NavBar() {
             <div className='social-icon'>
                 <a href='https://www.linkedin.com/in/logan-a-jones/'><img src={navIcon1} alt=""></img></a>
                 <a href='https://github.com/LoganAJones'><img src={navIcon2} alt=""></img></a>
-                <a href='#'><img src={navIcon3} alt=""></img></a>
             </div>
             <button className='vvd' onClick={() => console.log('connect')}>
                 <span>Let's Connect!</span>
