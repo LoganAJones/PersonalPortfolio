@@ -81,7 +81,7 @@ export const Projects = () => {
                 <h2>Projects</h2>
                 <p>Listed below are the projects that I have undertaken during my tenure at Lipscomb University, as well as a few personal projects that I have worked on.</p>
                 <Tab.Container id="projects-tabs" defaultActiveKey="first">
-                  <Nav variant="tabs" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
+                  <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
                     <Nav.Item>
                       <Nav.Link eventKey="first">All Projects</Nav.Link>
                     </Nav.Item>
