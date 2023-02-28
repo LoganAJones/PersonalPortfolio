@@ -35,7 +35,7 @@ export const Skills = () => {
                 <div className="col-12">
                     <div className="skill-bx wow zoomIn">
                         <h2>Skills</h2>
-                        <p>Proficiency in the following: Ruby, HTML, XML, CSS, JavaScript, React/React Native, NodeJS Rails, Groovy, Grails, Micronaut, Java, NextJs, VueJs, Redux, Handlebars.</p>
+                        <p>I have proficient with a range of programming languages including React/React Native, HTML, XML, CSS, JavaScript, NextJs, VueJs, Redux, C++, C, Ruby, Rails, Groovy, Grails, Micronaut, Java, and Handlebars. My proficiency in these languages enables me to develop web and mobile applications, and handle various back-end tasks with ease.</p>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                             <div className="item">
                                 <img src={meter1} alt="Image" />
